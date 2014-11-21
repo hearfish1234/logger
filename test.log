@@ -1,0 +1,5 @@
+[DEBUG]2014/11/21 15:10:29 /home/fisherchen/logger/logger.go:68: test
+[INFO]2014/11/21 15:10:29 /home/fisherchen/logger/logger.go:74: test
+[WARNING]2014/11/21 15:10:29 /home/fisherchen/logger/logger.go:80: test
+[ERROR]2014/11/21 15:10:29 /home/fisherchen/logger/logger.go:86: test
+[FATAL]2014/11/21 15:10:29 /home/fisherchen/logger/logger.go:92: test
